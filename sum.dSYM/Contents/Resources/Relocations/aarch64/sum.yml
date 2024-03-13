@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/z3540536/CCodeExperiment/sum'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _ProcessImage, symObjAddr: 0x0, symBinAddr: 0x100003C20, symSize: 0x294 }
+  - { offsetInCU: 0x47, offset: 0x47, size: 0x8, addend: 0x0, symName: _ProcessImage, symObjAddr: 0x0, symBinAddr: 0x100003C20, symSize: 0x294 }
+  - { offsetInCU: 0x12E, offset: 0x12E, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x294, symBinAddr: 0x100003EB4, symSize: 0x30 }
+...

@@ -1,0 +1,1 @@
+This project contains some files that have c codes. This is used to conduct experiment with SonarLint extension for VSCode.

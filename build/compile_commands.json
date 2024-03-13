@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/z3540536/CCodeExperiment/build",
+  "command": "/usr/bin/clang   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/CCodeExperiment.dir/sum.c.o -c /Users/z3540536/CCodeExperiment/sum.c",
+  "file": "/Users/z3540536/CCodeExperiment/sum.c",
+  "output": "CMakeFiles/CCodeExperiment.dir/sum.c.o"
+}
+]
